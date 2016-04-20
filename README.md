@@ -16,9 +16,13 @@ The CFPB forwards complaints to the appropriate company for a response, analyzes
 * `analysis/` - iPyton notebook files (which you can view right here on GitHub) loading the data and exploring a few things. Good to understand the datasets and get ideas for your project.
 
 ## Data Quirks
-#### Important things to know or notice
-* Foo
-* Bar
+
+`data/commerce-consumer-complaints.csv`
+* Consumer narratives aren’t tracked until mid 2015 sometime
+* The “Company response to consumer” field is the one that tells you what the result of the complaint was.
+   * The values for this field changed sometime in 2012, it seems
+   * Prior, all complaints were marked either "Closed with relief" or "Closed without relief."
+   * Sometime in 2012 changed to 3 options - "Closed with explanation", "Closed with monetary relief", or "Closed with non-monetary relief"
 
 ## Resources
 
