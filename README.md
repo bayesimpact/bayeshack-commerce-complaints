@@ -18,6 +18,7 @@ The CFPB forwards complaints to the appropriate company for a response, analyzes
 ## Data Quirks
 
 `data/commerce-consumer-complaints.csv`
+* This dataset represents the entire [Consumer Complaint Database](http://www.consumerfinance.gov/complaintdatabase/)
 * Consumer narratives aren’t tracked until mid 2015 sometime
 * The “Company response to consumer” field is the one that tells you what the result of the complaint was.
    * The values for this field changed sometime in 2012, it seems
