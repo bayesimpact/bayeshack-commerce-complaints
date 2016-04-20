@@ -28,4 +28,3 @@ The CFPB forwards complaints to the appropriate company for a response, analyzes
 ## Resources
 
 * The Commerce Data Service offers a tutorial for merging the American Community Survey's public datasets with the Consumer Complaint Database to highlight areas of specific need within particular communities: ["Extending the ACS: Data-driven Outreach"](http://commercedataservice.github.io/tutorial_acs_rank/).
-* More information on the [Consumer Complaint Database](http://www.consumerfinance.gov/complaintdatabase/) (whose entire contents appear in the `data/commerce-consumer-complaints.csv` file)
